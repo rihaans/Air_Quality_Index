@@ -2,7 +2,7 @@
 
 This project builds a Machine Learning model to predict the Air Quality Index (AQI) based on pollutant concentration data.
 
-## 🛠️ Features
+## Features
 
 - Load and explore air quality data (`city_day.csv`)
 - Perform Exploratory Data Analysis (EDA) using Seaborn & Matplotlib
